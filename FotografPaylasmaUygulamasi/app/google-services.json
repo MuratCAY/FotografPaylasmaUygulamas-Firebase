@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922971727699",
+    "firebase_url": "https://fotografpaylasmauygulamasi.firebaseio.com",
+    "project_id": "fotografpaylasmauygulamasi",
+    "storage_bucket": "fotografpaylasmauygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922971727699:android:2da25dbdd188755538e3a6",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasmauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922971727699-d3aets8j3ik0sndmgdipgva88a2qve2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-m4qeH2g5aYwHCZtnBt23mCVvmCdhsf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922971727699-d3aets8j3ik0sndmgdipgva88a2qve2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
